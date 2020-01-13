@@ -1,0 +1,29 @@
+body{
+
+	padding-top: 50px;
+}
+
+
+/* css for validation of form */
+.principal{
+	padding: 40px 15px;
+	text-align: center;
+}
+
+#conteudo {
+  background-color: #ccc;
+  width: 50%;
+}
+ 
+#msg {
+  color:red;
+}
+ 
+el.error{
+  background-color: red;
+}
+ 
+el.ok {
+  color: green;
+}
+
